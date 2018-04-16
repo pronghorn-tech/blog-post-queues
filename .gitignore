@@ -1,0 +1,12 @@
+.idea/
+.gradle/
+target/
+build/
+docs/
+out/
+*.swp
+*.orig
+*.tmp
+*.log
+.directory
+*.iml
